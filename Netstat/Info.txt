@@ -1,0 +1,8 @@
+View Process (VbNetstat)
+
+By this application you can see all of the processes which open the port TCP/UDP, 
+it is like Netstat program, you can see the Destination IP address and the its port number. 
+But in this application you can stop the process, even send the process files to Recycle Bin. 
+Besides that,  this application can show the information of the all files which running too. 
+So this is so usefull to make firewall application. And I have added the telnet server and Client in this application, and you can see the result in vbNetstat. 
+So don’t forget vote me if you like this.
